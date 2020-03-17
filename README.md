@@ -1,6 +1,6 @@
 ## UnlitGradient
 
-Unlit Unity Standard render pipeline shader, which demonstrates how to create a gradient shader.
+Unlit Unity built-in render pipeline shader, which demonstrates how to create a gradient shader.
 
 The color count is fixed, but it's possible to extend this kind of shader to be more flexible.
 
